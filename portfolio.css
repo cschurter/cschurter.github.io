@@ -12,3 +12,7 @@
   width: 100%;
   margin: 1em;
 }
+
+p {
+  font-size: .8rem !important;
+}
